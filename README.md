@@ -18,7 +18,21 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranjalsharma14&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4&rank=-C,-?" width="100%" />
+# 🏆 Developer Highlights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalsharma14&theme=tokyonight" width="100%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalsharma14&theme=tokyonight" width="32%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalsharma14&theme=tokyonight&utcOffset=8" width="40%" />
 
 </div>
 
@@ -127,7 +141,7 @@
 
 # 📂 Project Structure
 
-```bash
+
 AI-Career-Copilot-Pro
 │
 ├── app.py
@@ -177,22 +191,6 @@ E --> F[AI Generated Output]
 
 F --> G[Career Dashboard]
 ```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight&hide_border=true&background=0d1117" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalsharma14&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
 
 ---
 
