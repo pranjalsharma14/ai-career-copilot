@@ -1,174 +1,234 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:4f46e5,100:7c3aed&text=AI%20Career%20Copilot%20Pro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI-Powered%20Career%20Intelligence%20Platform&descAlignY=60&descSize=18" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:4f46e5,100:7c3aed&text=AI%20Career%20Copilot%20Pro&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-Powered%20Career%20Intelligence%20Platform&descAlignY=58&descSize=20" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&random=false&width=850&lines=ATS+Resume+Optimization;AI-Powered+Interview+Preparation;Career+Roadmap+Generator;Modern+AI+Career+Assistant;Built+with+Python+%2B+LLMs" />
-
-<br><br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMs-Powered-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-SaaS_Product-6366f1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Production_Ready-0f172a?style=for-the-badge" />
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=7F5AF0&vCenter=true&random=false&width=850&lines=ATS+Resume+Optimization;AI-Powered+Interview+Preparation;Career+Roadmap+Generator;Built+with+Python+%2B+LLMs" />
 </p>
-
-<br>
-
-# 🏆 Developer Highlights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalsharma14&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalsharma14&theme=tokyonight" width="32%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranjalsharma14&theme=tokyonight&utcOffset=8" width="40%" />
-
-</div>
 
 ---
 
-# 🌌 Overview
+# 🚀 What is AI Career Copilot Pro?
 
-> **AI Career Copilot Pro** is a premium AI-powered career intelligence platform designed to help users optimize resumes, improve ATS performance, prepare for interviews, and generate personalized career roadmaps using modern Large Language Models.
+AI Career Copilot Pro is a modern AI-powered career intelligence platform built to help students, freshers, and professionals improve their job preparation process using Large Language Models (LLMs).
 
-<br>
+The platform combines multiple AI tools into one unified system so users can:
 
-<div align="center">
+- Create ATS-optimized resumes
+- Analyze resume-job compatibility
+- Prepare for technical & HR interviews
+- Generate personalized career roadmaps
+- Get intelligent career guidance instantly
 
-| Core Capability | Description |
+Unlike traditional resume builders or chatbot-based tools, AI Career Copilot Pro works like a complete AI SaaS platform focused on real-world recruitment workflows.
+
+---
+
+# 🎯 The Problem It Solves
+
+Many candidates struggle during placements and job applications because:
+
+- Their resumes fail ATS screening systems
+- They don't know how recruiters evaluate profiles
+- They lack structured interview preparation
+- They follow random learning resources without direction
+- They don't receive personalized career guidance
+
+As a result, even skilled candidates often fail to get shortlisted.
+
+AI Career Copilot Pro solves these issues using AI-driven analysis, automation, and personalized recommendations.
+
+---
+
+# ⚡ Core Capabilities
+
+| Module | Purpose |
 |---|---|
-| 📄 Resume Generation | ATS-optimized resume generation tailored for job roles |
-| 📊 ATS Analysis | Resume scoring with intelligent feedback |
-| 🧠 Interview Preparation | AI-generated interview questions & answers |
-| 🛣️ Career Roadmaps | Personalized step-by-step learning plans |
-| ⚡ AI SaaS Experience | Modern recruiter-focused AI platform |
+| Resume Generator AI | Creates recruiter-friendly ATS resumes |
+| ATS Analyzer | Compares resume with job descriptions |
+| Interview Preparation | Generates AI-based interview questions & answers |
+| Career Roadmap Generator | Creates structured learning & growth plans |
+| AI Career Guidance | Provides intelligent recommendations using LLMs |
 
-</div>
+---
+
+# 🧠 How The AI System Works
+
+```text
+User Input
+   ↓
+Frontend Interface (Streamlit)
+   ↓
+Python Backend Processing
+   ↓
+OpenRouter LLM APIs
+   ↓
+AI Analysis & Generation
+   ↓
+Career Intelligence Output
+```
+
+---
+
+# 💡 Example User Flow
+
+```text
+1. User uploads resume
+        ↓
+2. User pastes job description
+        ↓
+3. AI analyzes ATS compatibility
+        ↓
+4. System generates:
+      • ATS Score
+      • Missing Keywords
+      • Improvement Suggestions
+      • Optimized Resume Content
+```
+
+---
+
+# 🔥 Why This Project Stands Out
+
+AI Career Copilot Pro is designed like a real startup SaaS product rather than a basic student project.
+
+The project focuses on:
+
+- Production-style architecture
+- Real-world AI implementation
+- Practical recruitment use cases
+- Modern UI/UX design
+- Modular scalable backend structure
+- Multi-feature AI workflow integration
+
+This demonstrates strong understanding of:
+
+- AI Product Engineering
+- SaaS System Design
+- LLM Integration
+- Prompt Engineering
+- Full Stack Development
+- User-Centric Product Design
+
+---
+
+# 🏆 Developer Highlights
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranjalsharma14&theme=tokyonight" width="100%" />
+</p>
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pranjalsharma14&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranjalsharma14&theme=tokyonight" width="32%" />
+</p>
 
 ---
 
 # ✨ Features
 
-<div align="center">
-
-| Feature | AI Capability | Status |
+| Feature | Description | Status |
 |---|---|---|
-| Resume Generator AI | ATS Resume Creation | ✅ |
-| ATS Analyzer | Resume vs JD Matching | ✅ |
-| Interview Preparation | Dynamic Q&A Generation | ✅ |
-| Career Roadmap Generator | AI Learning Paths | ✅ |
-| Session Authentication | User Session Management | ✅ |
-| OpenRouter Integration | Multi-LLM Support | ✅ |
-
-</div>
+| Resume Generator AI | ATS-optimized resume generation | ✅ |
+| ATS Analyzer | Resume vs JD semantic analysis | ✅ |
+| Interview Preparation | AI-generated interview simulations | ✅ |
+| Career Roadmap Generator | Personalized learning paths | ✅ |
+| Session Authentication | Session-based access handling | ✅ |
+| OpenRouter Integration | Multi-model LLM orchestration | ✅ |
 
 ---
 
 # 🧠 AI Modules
 
-## 1️⃣ Resume Generator
+## Resume Generator
 
-| Input | AI Process | Output |
+| Input | Process | Output |
 |---|---|---|
-| Skills, projects, experience | ATS optimization + formatting | Professional recruiter-ready resume |
+| Skills, projects, experience | ATS optimization & formatting | Recruiter-ready resume |
 
 ---
 
-## 2️⃣ ATS Resume Analyzer
+## ATS Resume Analyzer
 
-| Input | AI Process | Output |
+| Input | Process | Output |
 |---|---|---|
-| Resume + Job Description | Semantic keyword matching | ATS score + improvement suggestions |
+| Resume + Job Description | Semantic keyword analysis | ATS score + feedback |
 
 ---
 
-## 3️⃣ Interview Preparation
+## Interview Preparation
 
-| Input | AI Process | Output |
+| Input | Process | Output |
 |---|---|---|
-| Job role & experience level | AI interview simulation | Technical & HR interview Q&A |
+| Role + Experience Level | AI interview generation | Technical & HR Q&A |
 
 ---
 
-## 4️⃣ Career Roadmap Generator
+## Career Roadmap Generator
 
-| Input | AI Process | Output |
+| Input | Process | Output |
 |---|---|---|
-| Target career role | Structured AI planning | Step-by-step growth roadmap |
+| Target Career Role | AI planning engine | Step-by-step roadmap |
 
 ---
 
 # 🏗️ Architecture
 
-<div align="center">
-
 | Layer | Technology | Responsibility |
 |---|---|---|
-| Frontend | Streamlit | Interactive UI |
+| Frontend | Streamlit | User Interface |
 | Backend | Python | Application Logic |
 | AI Layer | OpenRouter APIs | LLM Processing |
 | Session Layer | Session State | Authentication |
 | Output Layer | Markdown/Text | AI Responses |
 
-</div>
-
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
-<div align="center">
+<p align="left">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,figma" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux,figma,bash" />
 
-<br><br>
+</p>
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,markdown,bash,json" />
+<p align="left">
 
-</div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=openai,json,markdown" />
+
+</p>
 
 ---
 
 # 📂 Project Structure
 
-
-AI-Career-Copilot-Pro
+```text
+AI-Career-Copilot-Pro/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 │
-├── assets
-│   ├── icons
-│   ├── banners
-│   └── images
+├── assets/
+│   ├── icons/
+│   ├── banners/
+│   └── images/
 │
-├── modules
+├── modules/
 │   ├── resume_generator.py
 │   ├── ats_analyzer.py
 │   ├── interview_prep.py
 │   └── roadmap_generator.py
 │
-├── auth
+├── auth/
 │   └── session_manager.py
 │
-├── utils
+├── utils/
 │   ├── prompts.py
 │   ├── helpers.py
 │   └── constants.py
 │
-└── data
-    └── templates
+└── data/
+    └── templates/
 ```
 
 ---
@@ -176,7 +236,7 @@ AI-Career-Copilot-Pro
 # 🧬 System Workflow
 
 ```mermaid
-graph TD
+flowchart LR
 
 A[User Input]
 --> B[Streamlit Frontend]
@@ -185,28 +245,46 @@ B --> C[Python Backend]
 
 C --> D[OpenRouter APIs]
 
-D --> E[LLM Processing]
+D --> E[LLM Processing Engine]
 
-E --> F[AI Generated Output]
+E --> F[Generated AI Responses]
 
-F --> G[Career Dashboard]
+F --> G[Career Intelligence Dashboard]
 ```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="left">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranjalsharma14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalsharma14&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</p>
+
+<p align="left">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjalsharma14&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="left">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Connect
 
-<div align="center">
+<p align="left">
 
 <a href="https://github.com/pranjalsharma14">
   <img src="https://img.shields.io/badge/GitHub-pranjalsharma14-181717?style=for-the-badge&logo=github" />
@@ -220,74 +298,82 @@ F --> G[Career Dashboard]
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+</p>
 
 ---
 
 # 🚀 Support This Project
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="33%">
 
-### ⭐ Star Repository
+<td width="33%">
 
-Support the project by starring the repository and increasing visibility.
+## ⭐ Star Repository
 
-</td>
-
-<td align="center" width="33%">
-
-### 🍴 Fork Project
-
-Create your own version and build additional features.
+Support the project and increase visibility within the developer community.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%">
 
-### 📢 Share Project
+## 🍴 Fork Project
 
-Help others discover the project across developer communities.
+Create your own version and experiment with additional AI workflows.
 
 </td>
+
+<td width="33%">
+
+## 📢 Share Project
+
+Share the repository with developers, recruiters, and AI enthusiasts.
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
+<p align="left">
+
 <a href="https://github.com/pranjalsharma14">
-  <img src="https://img.shields.io/badge/Support_Project-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Star%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</div>
+</p>
 
 ---
 
-# 🔒 License & Usage
+# 🔒 Proprietary License
 
-<div align="center">
+```text
+Copyright © 2026 Pranjal Sharma
 
-### © All Rights Reserved — Pranjal Sharma
+All Rights Reserved.
 
-This project is protected under a proprietary license.
+This repository and its source code are proprietary.
 
-Unauthorized copying, distribution, modification, or commercial use of this software is strictly prohibited without explicit permission from the author.
+You may not:
+- Copy
+- Modify
+- Distribute
+- Reproduce
+- Sell
+- Use commercially
 
-</div>
+without explicit written permission from the author.
+
+Unauthorized usage may result in legal action.
+```
 
 ---
 
-<div align="center">
+# ⚡ Final Note
 
-## ⚡ AI Career Copilot Pro
-
-### Building Smarter Careers with AI
+AI Career Copilot Pro represents a production-style AI SaaS application focused on solving real-world career preparation problems through modern LLM orchestration, recruiter-focused workflows, and scalable architecture design.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:7c3aed,50:4f46e5,100:0f172a" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:4f46e5,100:7c3aed" width="100%" />
